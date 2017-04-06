@@ -45,7 +45,7 @@ namespace ingame.player {
         }
 
         private IEnumerator PlayerMoveX() {
-            while (true) {
+            while (GameMananager.Instance.state_ == GameMananager.GameState.Game) {
                 var move = transform.DOMoveX(1f, moveSpeedX_).SetEase(Ease.Linear).SetRelative();
                 yield return move.WaitForCompletion();
             }
