@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 393aa5632b444493da29822aa1a34f3f
+timeCreated: 1491458938
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: capital_a
+    21300002: capital_b
+    21300004: capital_c
+    21300006: capital_d
+    21300008: capital_e
+    21300010: capital_f
+    21300012: capital_g
+    21300014: capital_h
+    21300016: capital_i
+    21300018: capital_j
+    21300020: capital_k
+    21300022: capital_l
+    21300024: capital_m
+    21300026: capital_n
+    21300028: capital_o
+    21300030: capital_p
+    21300032: capital_q
+    21300034: capital_r
+    21300036: capital_s
+    21300038: capital_t
+    21300040: capital_u
+    21300042: capital_v
+    21300044: capital_w
+    21300046: capital_x
+    21300048: capital_y
+    21300050: capital_z
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capital_a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_b
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 428
+        width: 55
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_c
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 431
+        width: 61
+        height: 80
+      alignment: 9
+      pivot: {x: 0.57377046, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_d
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 427
+        width: 67
+        height: 84
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_e
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 423
+        width: 60
+        height: 88
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_f
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 423
+        width: 61
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_g
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 428
+        width: 71
+        height: 83
+      alignment: 9
+      pivot: {x: 0.47887325, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_h
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340
+        width: 69
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_i
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 333
+        width: 37
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5675676, y: 0.5113636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_j
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 340
+        width: 55
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5090909, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_k
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 335
+        width: 66
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_l
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 342
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_m
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 342
+        width: 82
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49390244, y: 0.48101267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_n
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 340
+        width: 76
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4868421, y: 0.45679012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_o
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 69
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.4512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_p
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 248
+        width: 61
+        height: 83
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_q
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 242
+        width: 69
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_r
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 248
+        width: 61
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.48192772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_s
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 245
+        width: 54
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_t
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 248
+        width: 64
+        height: 83
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_u
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 249
+        width: 71
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_v
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 67
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52238804, y: 0.5125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_w
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 88
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.5064935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_x
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48101267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_y
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 158
+        width: 67
+        height: 82
+      alignment: 9
+      pivot: {x: 0.53731346, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: capital_z
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 153
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
