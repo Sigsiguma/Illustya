@@ -2,12 +2,12 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
-- Assets/Sprites/Digits.tpsheet
-- Assets/Sprites/UpperAlphabet.tpsheet
+- Assets/Sprites/Words/Digits.tpsheet
+- Assets/Sprites/Words/UpperAlphabet.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
-- Assets/Sprites/Digits.png
-- Assets/Sprites/UpperAlphabet.png
+- Assets/Sprites/Words/Digits.png
+- Assets/Sprites/Words/UpperAlphabet.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
 - 

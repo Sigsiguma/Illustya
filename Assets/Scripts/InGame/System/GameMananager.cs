@@ -33,6 +33,7 @@ public class GameMananager : SingletonMonoBehaviour<GameMananager> {
 
         score_.Subscribe(num => scoreSprite_.inputDigit_.Value = num.ToString())
               .AddTo(this);
+
     }
 
     public enum GameState {
